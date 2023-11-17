@@ -1,0 +1,2 @@
+- Para levantar el archivo
+docker compose up -d
